@@ -1,4 +1,4 @@
-1. Kwesieprah is my friend who comes from Washington DC and pursuing MA at Brandeis. He is a first year student with immense interest in Data Analytics. 
+1. Kwesieprah is a friend who comes from Ghana and pursuing MBA at Brandeis. His undergraduate degree was in Accounting and Information and Systems and has has immense interest in Data Analytics
 
 2. Jiang comes from China to pursue his graduate studies at Brandeis University. He also pursued his undergraduate from Duke University. He is a data scientist.  
 
